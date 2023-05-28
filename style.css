@@ -1,0 +1,64 @@
+.Btn-Google {
+    padding: 15px;
+    border: 0;
+    border-radius: 5px;
+    font-size:16px;
+}
+.search-box {
+    outline: none;
+    border: 1px solid #dfe1e5;
+    width: 638px;
+    max-width: 584px;
+    border-radius: 24px;
+    height: 44px;
+    padding: 0 40px;
+    font-size: 20px;
+}
+.search-box:hover {
+    border: 1px solid gray
+}
+.search-box:active {
+    border: 1px solid rgb(50, 50, 50)
+}
+.search-icon {
+    position: absolute;
+    top:160px;
+    left: 12px;
+}
+.text-center {
+    position: absolute;
+    display: block;
+    text-align: -webkit-center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.Google-Search {
+    position: relative;
+    height: 48px;
+    line-height: 8px;
+    cursor: pointer;
+}
+.Google-Search:hover {
+    border: 1px solid gray;
+}
+.Google-Search:active {
+    border: 1px solid blue;
+}
+.I-m-Feeling-Lucky {
+    cursor: pointer;
+}
+.I-m-Feeling-Lucky:hover {
+    border: 1px solid gray;
+}
+.I-m-Feeling-Lucky:active {
+    border: 1px solid blue;
+}
+.Google-icon {
+    font-size: 80px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.buttons {
+    margin-top: 30px;
+}
